@@ -1,0 +1,50 @@
+img{
+    width: 200px;
+    height: 200px;
+}
+.box{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+.col-4{
+    text-align: center;
+}
+.display-1{
+    font-size: 40px;
+    text-align: center;
+    margin: 0;
+}
+.col-4 p{
+    width: 200px;
+    margin: auto;
+
+}
+.display-5{
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 2px;
+}
+.logo img{
+    width:50px;
+    height:50px;
+    margin-top: 20px;
+    
+}
+.logo{
+   display: flex;
+   justify-content: center;
+}
+  
+.navbar-link{
+    margin-right: auto;
+}
+
+.d-flex img{
+    width: 40px;
+    height: 40px;
+}span{
+    color: red;
+}
+
+
